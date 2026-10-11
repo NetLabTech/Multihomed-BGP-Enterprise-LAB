@@ -6,7 +6,7 @@ It's a work in progress and I'll keep adding to it. The roadmap at the bottom is
 
 ## The big picture
 
-![Topology Diagram](typology_diagram.png)
+![Topology Diagram](https://github.com/NetLabTech/Multihomed-BGP-Enterprise-LAB/blob/41905f4efb90accf635ee4866b53716be25b700f/Screenshot%202026-10-11%20at%2014.25.25.png)
 
 From the top down:
 
