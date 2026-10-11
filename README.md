@@ -1,4 +1,4 @@
-# Multi-Vendor Network Lab (EVE-NG)
+# Multihomed-BGP-Enterprise-LAB
 
 I wanted to build a network the way a real company would actually run one, instead of just doing little two-router labs. So this is my home lab in EVE-NG: two ISPs, a company edge, firewalls and a switched LAN behind them, all on different vendors (Juniper, Cisco and Fortinet). I also wanted to get properly hands-on with firewalls, so building them into the design was part of the point.
 
